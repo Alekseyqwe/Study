@@ -20,5 +20,6 @@ public class Task1 {
         else{
             System.out.println("Нету");
         }
+
     }
 }
